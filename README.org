@@ -2,9 +2,8 @@
 
 A compatible re-implementation of the BibTeX program in Common Lisp, with a BST-to-CL compiler. By Matthias Köppe
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/mkoeppe/cl-bibtex.git   |
-| commit  | 17a16f5  |
-| systems | cl-bibtex |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/mkoeppe/cl-bibtex.git |
+| commit  | 17a16f5                                      |
+| systems | (bibtex)                                     |
+|---------+----------------------------------------------|
